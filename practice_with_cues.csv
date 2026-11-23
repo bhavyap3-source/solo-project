@@ -1,0 +1,9 @@
+phase,version,itemID,gapType,probeRelation,probePresent,probeWord,firstTarget,secondTarget,secondIndex,streamItems,cue1,cue2,cue3,cue4,cue5
+practice,practice,1,short,related,0,SLEEP,COIN,GATE,5,LEAF|CUP|COIN|MAP|HILL|GATE|FAN|BOOK|DESK|LAMP|FORK|KEY,bed,pillow,dream,tired,rest
+practice,practice,2,short,related,1,SLEEP,COIN,SLEEP,5,LEAF|CUP|COIN|MAP|HILL|SLEEP|FAN|BOOK|DESK|LAMP|FORK|KEY,bed,pillow,dream,tired,rest
+practice,practice,3,short,unrelated,0,BRICK,COIN,GATE,5,LEAF|CUP|COIN|MAP|HILL|GATE|FAN|BOOK|DESK|LAMP|FORK|KEY,bed,pillow,dream,tired,rest
+practice,practice,4,short,unrelated,1,BRICK,COIN,BRICK,5,LEAF|CUP|COIN|MAP|HILL|BRICK|FAN|BOOK|DESK|LAMP|FORK|KEY,bed,pillow,dream,tired,rest
+practice,practice,5,long,related,0,SLEEP,COIN,GATE,9,LEAF|CUP|COIN|MAP|HILL|ROPE|FAN|BOOK|DESK|GATE|FORK|KEY,bed,pillow,dream,tired,rest
+practice,practice,6,long,related,1,SLEEP,COIN,SLEEP,9,LEAF|CUP|COIN|MAP|HILL|ROPE|FAN|BOOK|DESK|SLEEP|FORK|KEY,bed,pillow,dream,tired,rest
+practice,practice,7,long,unrelated,0,BRICK,COIN,GATE,9,LEAF|CUP|COIN|MAP|HILL|ROPE|FAN|BOOK|DESK|GATE|FORK|KEY,bed,pillow,dream,tired,rest
+practice,practice,8,long,unrelated,1,BRICK,COIN,BRICK,9,LEAF|CUP|COIN|MAP|HILL|ROPE|FAN|BOOK|DESK|BRICK|FORK|KEY,bed,pillow,dream,tired,rest
